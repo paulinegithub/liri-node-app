@@ -32,15 +32,15 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Date of the Event (formatted as"MM/DD/YYYY")
 
-  Example:
+  Examples:
 
-  ![concert-this CLI](concert-this_ariana-grande.PNG)
-  ![concert-this log CLI](concert-this_ariana-grande-log.PNG)
+  ![concert-this CLI](assets/images/concert-this_ariana-grande.PNG)
+  ![concert-this log CLI](assets/images/concert-this_ariana-grande-log.PNG)
 
   Defaults to search for Boyz II Men:
 
-  ![concert-this default](concert-this.PNG)
-  ![concert-this log default](concert-this-log.PNG)
+  ![concert-this default](assets/images/concert-this.PNG)
+  ![concert-this log default](assets/images/concert-this-log.PNG)
 
 
 2. `node liri.js spotify-this-song '<song name here>'`
@@ -57,11 +57,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
   Example:
 
-  ![spotify-this-song CLI](spotify-this-song_happy-pharell.PNG)
+  ![spotify-this-song CLI](assets/images/spotify-this-song_happy-pharell.PNG)
 
    * If no song is provided then search will default to "The Sign" by Ace of Base.
 
-  ![spotify-this-song default](spotify-this-song.PNG)
+  ![spotify-this-song default](assets/images/spotify-this-song.PNG)
 
 
 3. `node liri.js movie-this '<movie name here>'`
@@ -81,11 +81,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
    
    Example:
    
-   ![movie-this CLI](movie-this_Moana.PNG)
+   ![movie-this CLI](assets/images/movie-this_moana.PNG)
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-   ![movie-this default](movie-this.PNG)
+   ![movie-this default](assets/images/movie-this.PNG)
 
 4. `node liri.js do-what-it-says`
 
@@ -95,4 +95,4 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Edit the text in random.txt to test out the feature for movie-this and my-tweets
 
-    ![do-what-it-says CLI](do-what-it-says.PNG)
+  ![do-what-it-says CLI](assets/images/do-what-it-says.PNG)
