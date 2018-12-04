@@ -22,7 +22,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### What Each Command Does
 
-1. **`node liri.js concert-this <artist/band name here>`**
+**1. `node liri.js concert-this <artist/band name here>`**
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal & log.txt:
 
@@ -43,7 +43,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
       ![concert-this log default](assets/images/concert-this-log.PNG)
 
 
-2. **`node liri.js spotify-this-song '<song name here>'`**
+**2. `node liri.js spotify-this-song '<song name here>'`**
 
    * This will show the following information about the song in the terminal/bash window
 
@@ -64,7 +64,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
       ![spotify-this-song default](assets/images/spotify-this-song.PNG)
       ![spotify-this-song log default](assets/images/spotify-this-song_log.PNG)
 
-3. **`node liri.js movie-this '<movie name here>'`**
+**3. `node liri.js movie-this '<movie name here>'`**
 
    * This will output the following information to the terminal/bash window:
 
@@ -87,7 +87,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      ![movie-this default](assets/images/movie-this.PNG)
 
-4. **`node liri.js do-what-it-says`**
+**4. `node liri.js do-what-it-says`**
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
