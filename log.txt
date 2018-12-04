@@ -9,3 +9,52 @@ Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6
 Album: The Hits--Chapter One
 ------------------------------------------------------------
 
+concert-this Ariana Grande
+Venue: Times Union Center
+Location: Albany, United States
+Date: 03/18/2019
+------------------------------------------------------------
+
+do-what-it-says undefined
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=9812c7770a1d43669c96181bcba19e9b
+Album: The Hits--Chapter One
+------------------------------------------------------------
+
+movie-this undefined
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+
+movie-this Moana
+Title: Moana
+Release Year: 2016
+IMDB Rating: 7.6/10
+Rotten Tomatoes Rating: 95%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+------------------------------------------------------------
+
+spotify-this-song undefined
+Artist: Karaoke Box
+Song Title: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Song Preview: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=9812c7770a1d43669c96181bcba19e9b
+Album: Karaoke Box: Reggae Greatest Hits
+------------------------------------------------------------
+
+spotify-this-song happy pharell
+Artist: Pharrell Williams
+Song Title: Happy
+Song Preview: https://p.scdn.co/mp3-preview/609cf640a652b3ca4d22b1d604f0885b7a591af9?cid=9812c7770a1d43669c96181bcba19e9b
+Album: Despicable Me 2 (Original Motion Picture Soundtrack)
+------------------------------------------------------------
+
