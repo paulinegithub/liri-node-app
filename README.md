@@ -58,11 +58,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
   Example:
 
   ![spotify-this-song CLI](assets/images/spotify-this-song_happy-pharell.PNG)
-
+  ![spotify-this-song log](assets/images/spotify-this-song_happy-pharell_log.PNG)
    * If no song is provided then search will default to "The Sign" by Ace of Base.
 
   ![spotify-this-song default](assets/images/spotify-this-song.PNG)
-
+  ![spotify-this-song log default](assets/images/spotify-this-song_log.PNG)
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -95,4 +95,5 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Edit the text in random.txt to test out the feature for movie-this and my-tweets
 
+  ![do-what-it-says random.txt](assets/images/do-what-it-says_random.PNG)
   ![do-what-it-says CLI](assets/images/do-what-it-says.PNG)
