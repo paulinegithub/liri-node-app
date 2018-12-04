@@ -72,9 +72,9 @@ function concertThis(musician) {
                 ].join("\n");
 
                 // Append concertInfo to log.txt + print to console
-                fs.appendFile("log.txt", search + concertInfo + divider, function (err) {
+                fs.appendFile("log.txt", search + musician + "\n" + concertInfo + divider, function (err) {
                     if (err) throw err;
-                    console.log("\n" + concertInfo + "\n");
+                    console.log("\n" + musician + "\n" + concertInfo + "\n");
                 });
             }
 
