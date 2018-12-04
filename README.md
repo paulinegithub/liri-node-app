@@ -32,15 +32,15 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Date of the Event (formatted as"MM/DD/YYYY")
 
-    Examples:
+     Examples:
 
-    ![concert-this CLI](assets/images/concert-this_ariana-grande.PNG)
-    ![concert-this log CLI](assets/images/concert-this_ariana-grande-log.PNG)
+      ![concert-this CLI](assets/images/concert-this_ariana-grande.PNG)
+      ![concert-this log CLI](assets/images/concert-this_ariana-grande-log.PNG)
 
-    Defaults to search for Boyz II Men:
+      Defaults to search for Boyz II Men:
 
-    ![concert-this default](assets/images/concert-this.PNG)
-    ![concert-this log default](assets/images/concert-this-log.PNG)
+      ![concert-this default](assets/images/concert-this.PNG)
+      ![concert-this log default](assets/images/concert-this-log.PNG)
 
 
 2. `node liri.js spotify-this-song '<song name here>'`
@@ -55,14 +55,14 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * The album that the song is from
 
-    Example:
+      Example:
 
-    ![spotify-this-song CLI](assets/images/spotify-this-song_happy-pharell.PNG)
-    ![spotify-this-song log](assets/images/spotify-this-song_happy-pharell_log.PNG)
+      ![spotify-this-song CLI](assets/images/spotify-this-song_happy-pharell.PNG)
+      ![spotify-this-song log](assets/images/spotify-this-song_happy-pharell_log.PNG)
      * If no song is provided then search will default to "The Sign" by Ace of Base.
 
-    ![spotify-this-song default](assets/images/spotify-this-song.PNG)
-    ![spotify-this-song log default](assets/images/spotify-this-song_log.PNG)
+      ![spotify-this-song default](assets/images/spotify-this-song.PNG)
+      ![spotify-this-song log default](assets/images/spotify-this-song_log.PNG)
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -95,5 +95,5 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Edit the text in random.txt to test out the feature for movie-this and my-tweets
 
-    ![do-what-it-says random.txt](assets/images/do-what-it-says_random.PNG)
-    ![do-what-it-says CLI](assets/images/do-what-it-says.PNG)
+      ![do-what-it-says random.txt](assets/images/do-what-it-says_random.PNG)
+      ![do-what-it-says CLI](assets/images/do-what-it-says.PNG)
