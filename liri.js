@@ -48,7 +48,7 @@ function liriSearch() {
 // show next concert for given artist
 function concertThis(musician) {
     if (!musician) {
-        musician = "Adele";
+        musician = "Boyz II Men";
     }
 
     var URL = "https://rest.bandsintown.com/artists/" + musician + "/events?app_id=codingbootcamp";

@@ -41,6 +41,11 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 
      * Date of the Event (formatted as"MM/DD/YYYY")
 
+  Defaults to search for Boyz II Men:
+  ![concert-this default](concert-this.PNG)
+
+  ![concert-this CLI](concert-this_ariana-grande.PNG)
+
 2. `node liri.js spotify-this-song '<song name here>'`
 
    * This will show the following information about the song in your terminal/bash window
@@ -66,6 +71,9 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
    * Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
 
    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
+  
+  ![spotify-this-song default](spotify-this-song.PNG)
+  ![spotify-this-song CLI](spotify-this-song_happy-pharell.PNG)
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -88,7 +96,8 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 
      * It's on Netflix!
 
-   * You'll use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
+   ![movie-this default](movie-this.PNG)
+   ![movie-this CLI](movie-this_Moana.PNG)
 
 4. `node liri.js do-what-it-says`
 
