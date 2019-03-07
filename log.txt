@@ -148,3 +148,42 @@ Location: Albany, United States
 Date: 03/18/2019
 ------------------------------------------------------------
 
+concert-this Ariana Grande
+Ariana Grande
+Venue: Times Union Center
+Location: Albany, United States
+Date: 03/18/2019
+------------------------------------------------------------
+
+concert-this Ariana Grande
+Ariana Grande
+Venue: Times Union Center
+Location: Albany, United States
+Date: 03/18/2019
+------------------------------------------------------------
+
+do-what-it-says undefined
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=9812c7770a1d43669c96181bcba19e9b
+Album: The Hits--Chapter One
+------------------------------------------------------------
+
+spotify-this-song Happy by Pharell
+Artist: BLOB
+Song Title: Happy Elvis - Cover of "Happy" by Pharell
+Song Preview: https://p.scdn.co/mp3-preview/4f570efead385b8c72ae9d2c2f8401bfc68c10f7?cid=9812c7770a1d43669c96181bcba19e9b
+Album: Boredom Breaker: School
+------------------------------------------------------------
+
+movie-this Moana
+Title: Moana
+Release Year: 2016
+IMDB Rating: 7.6/10
+Rotten Tomatoes Rating: 95%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+------------------------------------------------------------
+
