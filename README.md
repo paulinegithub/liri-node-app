@@ -125,6 +125,21 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ---
 
+## Built with:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language.
+- [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
+- [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft.
+
+## npm packages used:
+
+- [axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
+- [dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module that loads environment variables from a .env file into process.env.
+- [moment](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
+- [Node Spotify API](https://www.npmjs.com/package/node-spotify-api) - API library for the Spotify REST API.
+
+---
+
 ## Author:
 
 - **Pauline Senh** - [plsenh](https://github.com/plsenh)
