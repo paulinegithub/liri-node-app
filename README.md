@@ -13,13 +13,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 2. To retrieve the data that will power this app, requests are sent to the Bands in Town, Spotify and OMDB APIs.
 
    - [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
-
    - [Request](https://www.npmjs.com/package/request) (axios used in this case)
-
      - Used to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
-
    - [Moment](https://www.npmjs.com/package/moment)
-
    - [DotEnv](https://www.npmjs.com/package/dotenv)
 
 3. In addition to logging the data to the terminal/bash window, the commands and data are appended to a .txt file called `log.txt`.
@@ -40,9 +36,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 - This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal & log.txt:
 
   - Name of the venue
-
   - Venue location
-
   - Date of the Event (formatted as"MM/DD/YYYY")
 
   _Examples:_
