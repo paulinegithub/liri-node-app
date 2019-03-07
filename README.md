@@ -55,6 +55,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
   ![concert-this default](assets/images/concert-this.PNG)
   ![concert-this log default](assets/images/concert-this-log.PNG)
 
+  [back to list](#what-each-command-does)
+
 ---
 
 ### spotify-this-song
@@ -80,6 +82,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
   ![spotify-this-song default](assets/images/spotify-this-song.PNG)
   ![spotify-this-song log default](assets/images/spotify-this-song_log.PNG)
+
+  [back to list](#what-each-command-does)
 
 ---
 
@@ -108,6 +112,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
   ![movie-this default](assets/images/movie-this.PNG)
 
+  [back to list](#what-each-command-does)
+
 ---
 
 ### do-what-it-says
@@ -120,6 +126,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
   ![do-what-it-says random.txt](assets/images/do-what-it-says_random.PNG)
   ![do-what-it-says CLI](assets/images/do-what-it-says.PNG)
+
+  [back to list](#what-each-command-does)
 
 ---
 
