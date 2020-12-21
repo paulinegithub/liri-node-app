@@ -142,4 +142,4 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## Author:
 
-- **Pauline Senh** - [plsenh](https://github.com/plsenh)
+- **Pauline S.** - [paulinegithub](https://github.com/paulinegithub)
